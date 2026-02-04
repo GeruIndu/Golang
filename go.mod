@@ -1,4 +1,4 @@
-module Golang/Chi-framework-routing-management
+module github.com/GeruIndu/Golang
 
 go 1.25.6
 
