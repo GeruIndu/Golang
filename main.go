@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	application "github.com/GeruIndu/Golang/Application"
+	application "github.com/GeruIndu/Golang_routing_module/application"
 )
 
 func main() {

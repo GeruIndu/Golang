@@ -1,4 +1,4 @@
-module github.com/GeruIndu/Golang
+module github.com/GeruIndu/Golang_routing_module
 
 go 1.25.6
 
