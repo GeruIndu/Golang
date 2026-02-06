@@ -3,7 +3,7 @@ package application
 import (
 	"net/http"
 
-	"github.com/GeruIndu/Golang_routing_module/handler"
+	handler "github.com/GeruIndu/Golang_routing_module/handler"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 )
